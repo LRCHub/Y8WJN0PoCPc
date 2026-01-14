@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Thank You For Loving Me",
+  "base_artist": "Bon Jovi",
+  "createdAt": "2026-01-14T02:22:47.071567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "thank you for loving me",
+      "artist": "Sweet",
+      "has_synced": false,
+      "path": "select/01_thank_you_for_loving_me_Sweet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/02_Thank_You_For_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/03_Thank_You_For_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Zonke",
+      "has_synced": false,
+      "path": "select/04_Thank_You_For_Loving_Me_Zonke.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/05_Thank_You_For_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_Thank_You_For_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thank You for Loving Me",
+      "artist": "bon jovi",
+      "has_synced": true,
+      "path": "select/07_Thank_You_for_Loving_Me_bon_jovi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thank You for Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/08_Thank_You_for_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "THANK YOU FOR LOVING ME",
+      "artist": "English",
+      "has_synced": true,
+      "path": "select/09_THANK_YOU_FOR_LOVING_ME_English.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/10_Thank_You_For_Loving_Me_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thank You For Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/11_Thank_You_For_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thank You for Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/12_Thank_You_for_Loving_Me_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thank You For Loving Me",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/pl_01_Thank_You_For_Loving_Me_Bon_Jovi.txt"
+    }
+  ]
+}
